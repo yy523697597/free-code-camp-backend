@@ -1,0 +1,24 @@
+{
+  "name": "free-code-camp-backend",
+  "version": "1.0.0",
+  "description": "backend for free code canp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yy523697597/free-code-camp-backend.git"
+  },
+  "keywords": [
+    "free",
+    "code",
+    "camp"
+  ],
+  "author": "Ethan Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yy523697597/free-code-camp-backend/issues"
+  },
+  "homepage": "https://github.com/yy523697597/free-code-camp-backend#readme"
+}
